@@ -6,7 +6,7 @@ This document lists the talks I have delivered at various events and webinars, a
 
 ### 2023 ✨
 
-#### Big Data Conference Europe
+### Big Data Conference Europe
 
 **Title:** Why do you need an Explainable AI?
 
@@ -14,19 +14,19 @@ This document lists the talks I have delivered at various events and webinars, a
 
 ### 2022 ✨
 
-#### Apidays India 2022
+### Apidays India 2022
 
 **Title:** Application Modernization and the 4C’s of Application Composition
 
 **Link:** [Watch here](https://youtu.be/Abp-uzt8eUU)
 
-#### TECH(K)NOW Day 2022
+### TECH(K)NOW Day 2022
 
 **Title:** Women as Developer Advocates
 
 **Link:** [Watch here](https://youtu.be/RsWw0Qdhkko)
 
-#### React Global Online Summit 22.2 – Junior Track 2022
+### React Global Online Summit 22.2 – Junior Track 2022
 
 **Title:** Composable Microfrontends with React
 
