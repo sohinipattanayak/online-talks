@@ -10,7 +10,7 @@ This document lists the talks I have delivered at various events and webinars, a
 
 **Title:** Why do you need an Explainable AI?
 
-**Link:** Coming Soon!!
+**Link:** [Watch here](https://youtu.be/D2pvofuso2M?si=DTQVOU6_nY50y6YQ)
 
 ### 2022 ✨
 
